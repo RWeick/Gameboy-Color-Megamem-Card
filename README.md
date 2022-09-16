@@ -1,6 +1,5 @@
 # Gameboy-Color-Megamem-Card
-All data necessary to produce a Mega Memory Card for the Gameboy Color
-The two unlabled pads are 100 nF capacitors
+All data necessary to produce a Mega Memory Card for the Gameboy Color.
 
 PCB Thickness: 0.8 mm
 
