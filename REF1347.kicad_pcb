@@ -669,6 +669,30 @@
 				)
 			)
 		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "705eabaf-7e47-48f8-aade-36561ee9f9a1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dbd1eafa-5485-47cb-8ba9-b59746838b55")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/095970e0-b663-4a73-ae8d-6bd4636757a0")
 		(sheetname "Root")
@@ -948,7 +972,7 @@
 			(at 0 -3.75 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "13789280-cabf-49dd-929e-ddbbf5dc3c28")
+			(uuid "8b544cbc-3c95-450c-8ffb-c35db64f0c12")
 			(effects
 				(font
 					(size 1 1)
@@ -1039,7 +1063,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 40 "/Switch")
 			(pintype "passive")
-			(uuid "61292641-d227-4af5-adb1-dbf4df516c52")
+			(uuid "84166b7f-dbea-4ae6-b37d-6ac9797f1de9")
 		)
 		(pad "2" smd rect
 			(at 0 1.5 90)
@@ -1047,7 +1071,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 34 "/VCC")
 			(pintype "passive")
-			(uuid "8e00f7e9-d1a4-4918-82d3-9c1efa65930b")
+			(uuid "13a2cb03-f632-47e2-98a3-c077cdd6a3f8")
 		)
 	)
 	(footprint "Gameboy:SST 28SF040"
@@ -3405,9 +3429,9 @@
 		(uuid "85dbff05-be6f-4fea-93ec-8f920eff8644")
 	)
 	(gr_arc
-		(start 95.15 59.865)
-		(mid 94.518044 61.465265)
-		(end 92.9 62.050214)
+		(start 95.149811 59.865009)
+		(mid 94.517901 61.465125)
+		(end 92.9 62.049999)
 		(stroke
 			(width 0.002)
 			(type solid)
